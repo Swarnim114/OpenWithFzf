@@ -7,4 +7,4 @@ git clone https://github.com/Swarnim114/OpenWithFzf.git
 make a keybinding for script.sh for my case it is (mod+N);
 And enjoy 
 
-![[fzf (1).gif]]
+![[fzf.gif]]
